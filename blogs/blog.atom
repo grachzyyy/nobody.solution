@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="ru-RU" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:www.nobody.solutions,2005:/blogs/blog</id>
+  <link rel="alternate" type="text/html" href="https://www.nobody.solutions/blogs/blog"/>
+  <link rel="self" type="application/atom+xml" href="https://www.nobody.solutions/blogs/blog.atom"/>
+  <title>Блог</title>
+  <updated>2020-04-02T00:01:00+03:00</updated>
+  <entry>
+    <id>tag:www.nobody.solutions,2005:Article/1985648</id>
+    <published>2022-03-09T13:33:47+03:00</published>
+    <updated>2022-03-09T13:33:47+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nobody.solutions/blogs/blog/second"/>
+    <title>Вторая новость магазина</title>
+    <content type="html">&lt;p&gt;В интернет-магазине на InSales Вы можете вести блог магазина или новостную ленту &amp;ndash; это отличный способ привлекать дополнительных покупателей из поисковых систем не только за счет коммерческих запросов, но и за счет информационных.&lt;/p&gt;
+&lt;p&gt;Рассказывайте вашим покупателям о новинках в вашем магазине, или просто полезную информацию о товарах вашей тематики и новостях рынка!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Желательно публиковать статьи в блоге магазина не реже, чем 1 раз в месяц.&lt;/strong&gt;&lt;/p&gt;</content>
+    <logo>https://static.insales-cdn.com/images/articles/1/4192/1798240/thumb_928x600_blog.png</logo>
+    <icon>https://static.insales-cdn.com/images/articles/1/4192/1798240/thumb_928x600_blog.png</icon>
+    <author>
+      <name>Админ</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.nobody.solutions,2005:Article/1985649</id>
+    <published>2022-03-09T13:33:48+03:00</published>
+    <updated>2022-03-09T13:33:48+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nobody.solutions/blogs/blog/first"/>
+    <title>Первая новость магазина</title>
+    <content type="html">&lt;p&gt;В интернет-магазине на InSales Вы можете вести блог магазина или новостную ленту &amp;ndash; это отличный способ привлекать дополнительных покупателей из поисковых систем не только за счет коммерческих запросов, но и за счет информационных.&lt;/p&gt;
+&lt;p&gt;Рассказывайте вашим покупателям о новинках в вашем магазине, или просто полезную информацию о товарах вашей тематики и новостях рынка!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Желательно публиковать статьи в блоге магазина не реже, чем 1 раз в месяц.&lt;/strong&gt;&lt;/p&gt;</content>
+    <logo>https://static.insales-cdn.com/images/articles/1/4193/1798241/thumb_928x600_blog.png</logo>
+    <icon>https://static.insales-cdn.com/images/articles/1/4193/1798241/thumb_928x600_blog.png</icon>
+    <author>
+      <name>Админ</name>
+    </author>
+  </entry>
+</feed>
